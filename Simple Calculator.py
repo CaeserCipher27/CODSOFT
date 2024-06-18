@@ -48,13 +48,4 @@ def Calc():
 
 Calc()
 
-# while flag:
-#     Calc()
-#     if d == 'yes':
-#         flag = True
-#         Calc()
-#     else:
-#         flag = False
-#         print("Thank You for using Python Calculator!")
 
-# https://github.com/CaeserCipher27/CODSOFT.git
